@@ -1,0 +1,7 @@
+{
+  "name": "prompt-master",
+  "owner": { "name": "Mateus Gabriel Reis" },
+  "plugins": [
+    { "name": "prompt-master", "source": "./prompt-master", "description": "Reescreve o prompt digitado numa versão mais clara, com contexto, objetivo e critério de pronto" }
+  ]
+}

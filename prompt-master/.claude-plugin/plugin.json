@@ -1,0 +1,1 @@
+{ "name": "prompt-master", "version": "0.1.0", "description": "Reescreve o prompt digitado numa versão mais clara, com contexto, objetivo e critério de pronto", "types": "./types/index.d.ts" }
